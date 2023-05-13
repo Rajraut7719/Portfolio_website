@@ -1,5 +1,3 @@
-# Portfolio_website
-# 
 
 # Portfolio_website
 1 - First, let's create our virtual env:
